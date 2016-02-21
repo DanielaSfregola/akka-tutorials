@@ -1,6 +1,6 @@
 package com.danielasfregola.akka.tutorials.actors
 
-import akka.actor.{actorRef2Scala, _}
+import akka.actor.Actor
 
 import scala.concurrent.ExecutionContext.Implicits.global
 import scala.concurrent.duration._
