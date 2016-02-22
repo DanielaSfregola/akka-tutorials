@@ -24,4 +24,4 @@ Run the service:
 If the service is running `http://localhost:<PORT>/ping` should return `pong`.
 
 ## Usage
-[This article](work in progress) explains what this service is doing.
+Look at [this article](http://danielasfregola.com/2016/02/21/background-processing-with-akka-cluster-singletonclustermanager/) that explains what this service is doing.
