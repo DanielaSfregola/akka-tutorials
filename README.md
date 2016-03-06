@@ -4,3 +4,7 @@ In this repo we collect tutorials on how to use Akka and its core functionalitie
 ## Akka Cluster - Cluster Singleton Manager
 - Article: [Backgroung Processing with Akka Cluster: ClusterSingletonManager](http://danielasfregola.com/2016/02/21/background-processing-with-akka-cluster-singletonclustermanager/)
 - Code: https://github.com/DanielaSfregola/akka-tutorials/tree/master/cluster-singleton-manager
+
+## Akka Http - How to build an Http Client with Akka Http
+- Article: TODO
+- Code: https://github.com/DanielaSfregola/akka-tutorials/tree/master/akka-http-client
